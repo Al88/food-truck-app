@@ -1,6 +1,5 @@
 {
   "name": "food-truck-app",
-  "homepage": "./build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,7 +25,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build --output-path docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

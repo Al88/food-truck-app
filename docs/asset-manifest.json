@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./build/static/css/main.e7e46de2.css",
+    "main.js": "./build/static/js/main.d97e978d.js",
+    "static/js/453.5e57092f.chunk.js": "./build/static/js/453.5e57092f.chunk.js",
+    "static/media/marker-icon.png": "./build/static/media/marker-icon.4e242960a8a446c89360.png",
+    "index.html": "./build/index.html",
+    "main.e7e46de2.css.map": "./build/static/css/main.e7e46de2.css.map",
+    "main.d97e978d.js.map": "./build/static/js/main.d97e978d.js.map",
+    "453.5e57092f.chunk.js.map": "./build/static/js/453.5e57092f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e46de2.css",
+    "static/js/main.d97e978d.js"
+  ]
+}
