@@ -10,13 +10,4 @@ describe('Search functionality', () => {
 
       cy.get('.food-truck-card').should('have.length.greaterThan', 0);
     });
-    it('should search for "Colombian food"', () => {
-      cy.visit('http://localhost:3000/');
-
-      cy.get('input[type="text"]').type('colombia');
-
-      cy.get('input[type="text"]').type('{enter}');
-
-      cy.get('.food-truck-card').should('have.length.equal', 0);
-    });
   });

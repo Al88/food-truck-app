@@ -31,16 +31,12 @@ Open http://localhost:3000 to view it in the browser.
 I used Cypress for end-to-end testing. To run these tests, use the following command:
 
 ```bash
-npm run cypress:open
+npx cypress open
 ```
 
 ## Additional Notes
 Make sure you have Node.js installed.
-This application uses Material-UI for styling
-
-
-
-
+This application uses Material-UI for stylin
 
 
 
