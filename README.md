@@ -20,16 +20,21 @@ npm install
 
 To start the application locally, run:
 
+```bash
 npm start
+```
 
 Open http://localhost:3000 to view it in the browser.
 
 
 ## End-to-End Tests (E2E)
 I used Cypress for end-to-end testing. To run these tests, use the following command:
-npm run cypress:open
 
-# Additional Notes
+```bash
+npm run cypress:open
+```
+
+## Additional Notes
 Make sure you have Node.js installed.
 This application uses Material-UI for styling
 
