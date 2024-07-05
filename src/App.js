@@ -21,7 +21,7 @@ const App = () => {
   useEffect(() => {
     // I would have implemented an API/Endopint in a backend with laravel/lumen if I had more time, I simply converted the csv into an array of objects
 
-    fetch('/data/Mobile_Food_Facility_Permit.csv')
+    fetch('./data/Mobile_Food_Facility_Permit.csv')
       .then(response => response.text())
       .then(csvText => {
         Papa.parse(csvText, {
