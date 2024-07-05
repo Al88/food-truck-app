@@ -1,6 +1,6 @@
 {
   "name": "food-truck-app",
-  "homepage": "./docs",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
