@@ -1,6 +1,5 @@
 {
   "name": "food-truck-app",
-  "homepage": "https://al88.github.io/food-truck-app/docs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

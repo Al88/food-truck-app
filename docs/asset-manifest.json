@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/food-truck-app/docs/static/css/main.e7e46de2.css",
-    "main.js": "/food-truck-app/docs/static/js/main.5c4d4a95.js",
-    "static/js/453.5e57092f.chunk.js": "/food-truck-app/docs/static/js/453.5e57092f.chunk.js",
-    "static/media/marker-icon.png": "/food-truck-app/docs/static/media/marker-icon.4e242960a8a446c89360.png",
-    "index.html": "/food-truck-app/docs/index.html",
-    "main.e7e46de2.css.map": "/food-truck-app/docs/static/css/main.e7e46de2.css.map",
-    "main.5c4d4a95.js.map": "/food-truck-app/docs/static/js/main.5c4d4a95.js.map",
-    "453.5e57092f.chunk.js.map": "/food-truck-app/docs/static/js/453.5e57092f.chunk.js.map"
+    "main.css": "/static/css/main.e7e46de2.css",
+    "main.js": "/static/js/main.c043f55e.js",
+    "static/js/453.5e57092f.chunk.js": "/static/js/453.5e57092f.chunk.js",
+    "static/media/marker-icon.png": "/static/media/marker-icon.4e242960a8a446c89360.png",
+    "index.html": "/index.html",
+    "main.e7e46de2.css.map": "/static/css/main.e7e46de2.css.map",
+    "main.c043f55e.js.map": "/static/js/main.c043f55e.js.map",
+    "453.5e57092f.chunk.js.map": "/static/js/453.5e57092f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7e46de2.css",
-    "static/js/main.5c4d4a95.js"
+    "static/js/main.c043f55e.js"
   ]
 }
