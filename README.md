@@ -14,6 +14,7 @@ Follow these steps to get the application running on your local machine:
 git clone https://github.com/al88/food-truck-app.git
 cd food-truck-app
 npm install
+```
 
 ## Usage
 
