@@ -1,6 +1,6 @@
 # Food Truck Finder App
 
-This project is a ReactJS application designed as a technical test for [Company Name]. It allows users to find food trucks in San Francisco.
+This project is a ReactJS application designed as a technical test. It allows users to find food trucks in San Francisco.
 
 ## Demo
 
@@ -28,7 +28,7 @@ Open http://localhost:3000 to view it in the browser.
 I used Cypress for end-to-end testing. To run these tests, use the following command:
 npm run cypress:open
 
-Additional Notes
+# Additional Notes
 Make sure you have Node.js installed.
 This application uses Material-UI for styling
 
